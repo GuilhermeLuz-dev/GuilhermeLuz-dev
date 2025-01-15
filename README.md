@@ -10,6 +10,6 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e estou cursando atualm
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeLuz-dev&repo=Jogo-da-Memoria.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeLuz-dev&repo=Jogo-Da-Memoria.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
