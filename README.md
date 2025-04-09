@@ -1,6 +1,6 @@
 ## Olá 👋
 
-####Sobre Mim:
+###Sobre Mim:
 
 Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e estou cursando atualmente Bacharelado em Sistemas de Informação. Tenho conhecimentos em tencnologias front ent como Javascript, Typescript, Sass, Bootstrap, Vue e entre outras.
 
